@@ -195,7 +195,7 @@
     "spectron": "15.0.0",
     "streamlabs-beaker": "0.9.4",
     "style-loader": "2.0.0",
-    "stylelint": "10.0.1",
+    "stylelint": "15.10.1",
     "stylelint-config-css-modules": "1.3.0",
     "stylelint-config-prettier": "8.0.2",
     "stylelint-config-standard": "18.2.0",
